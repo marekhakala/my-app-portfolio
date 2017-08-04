@@ -1,4 +1,4 @@
-# Udacity App Portfolio (Screenshots)
+# Udacity My App Portfolio (Screenshots)
 
 ## Home screen
 ![Home screen](0_main_screen.png)

@@ -1,17 +1,16 @@
-# Udacity App Portfolio
+# Udacity My App Portfolio
 
 ![Udacity App Portfolio logo](Screenshots/udacity_my-app-porfolio_logo.png)
 
 ## Project description
 
-Portfolio app (Project 0) for Udacity Android Developer Nanodegree. This app provides no other purpose than to showcase apps will be developed in the program.
+The My App Portfolio application is Project 0 for Udacity Android Developer Nanodegree. This application provides no other purpose than to showcase applications will be developed in the program.
 
 [Screenshots](Screenshots/)
 
+ ## Udacity Nanodegree My App Portfolio Project
 
- ## Udacity Nanodegree App Portfolio Project
-
- ![Udacity Nanodegree Project](Screenshots/udacity_logo.png)
+ ![Udacity Nanodegree My App Portfolio Project](Screenshots/udacity_logo.png)
 
   # License - Apache License, Version 2.0
 
